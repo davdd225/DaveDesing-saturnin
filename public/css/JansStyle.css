@@ -1,0 +1,160 @@
+
+.ms-jane{
+    margin-left: -0.75em !important;
+}
+
+.ms-jane{
+    font-weight: 600 !important;
+}
+
+.bg-jane-100{
+    background-color: #efeae4;
+}
+
+.jane-color{
+   /* color: #592607 !important; */
+  text-shadow: 20px #0000;
+}
+
+.studio-jane{
+    background-color: #efeae46a;
+   
+}
+
+.text-jane{
+    
+    font-size: 25px;
+    margin: 30px 0 0;
+    line-height: 1.5;
+    
+  
+}
+
+.back-jane{
+    background-color: #efeae4;
+}
+
+.kane-jane{
+    background-color: #efeae4 ;
+}
+
+.galeri-jane{
+   
+    margin-bottom: 75px;
+ 
+}
+.col-jane-interieur{
+    border: 5px solid  #3b312586 ;
+   width: 500px;
+   height: 650px;
+    margin: 3%;
+}
+/* .gallery-jane {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  
+  .gallery-jane-item {
+    width: 100%;
+    height: auto;
+  }
+
+  .
+  
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  } */
+
+  .container-jane{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+  .contener{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.image-jane{
+  margin: 2px;
+  object-fit: cover;
+  width:100%;
+  height: 512px;
+
+    
+}
+.top-jane{
+    margin-top: 5%;
+}
+
+.jane-bottom{
+    margin-bottom: 100px;
+}
+
+.projet-jane{
+    padding :  8rem!important;
+}
+
+.bg-jane{
+    background-color: #efeae4;
+}
+
+.bg-texte-jane{
+    font-size: 15px;
+    font-weight: 200;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.text-jane{
+    text-align: center; 
+}
+
+.about-text{
+    margin: 0px 7px 40px;
+    font-size: 80px;
+   
+}
+
+.about-paragraphe{
+    font-size: 20px;
+    line-height: 1.5;
+   
+  
+}
+
+.bordue-jane{
+  padding: 9% ;
+}
+
+.contact-section{
+    margin-bottom:120px !important;
+}
+
+.jane-button{
+   margin: 20px 0 0px;
+   display: flex;
+   justify-content: space-between;
+   text-transform: uppercase;
+   
+   
+}
+.about-paragraphe {
+    padding:5%;
+    border-radius: 10px;
+    
+}
+
+.card-jane{
+    background-color:#eddbcd !important;
+}
+
+
+ 
+
